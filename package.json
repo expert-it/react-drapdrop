@@ -1,0 +1,29 @@
+{
+  "name": "react-photo-gallery-with-react-sortable-hoc",
+  "version": "0.0.103",
+  "description": null,
+  "keywords": [
+    "react-photo-gallery",
+    "react-sortable-hoc",
+    "gallery",
+    "masonry",
+    "sortable"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "array-move": "2.1.0",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-photo-gallery": "8.0.0",
+    "react-sortable-hoc": "1.9.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
